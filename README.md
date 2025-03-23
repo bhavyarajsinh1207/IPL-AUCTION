@@ -4,7 +4,8 @@
 This is a Power BI dashboard showing detailed insights from the IPL 2025 auction. It includes player prices, team spending, and other key auction statistics.
 
 ## 📸 Screenshot
-![IPL Auction Dashboard](./IPL_Auction.jpg)
+![IPL AUCTION](https://github.com/user-attachments/assets/b7fbcc1d-27e6-4f9f-b247-89d7902167f2)
+
 
 ## 🚀 Features
 - **Final Price by Player** – Displays the highest-paid players and their final auction prices.
